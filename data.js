@@ -75,23 +75,6 @@ module.exports = [
     ],
   },
   {
-    name: "LambdaTest Blogs",
-    description:
-      "Learn all you want to around software testing, mobile app testing, website testing and more",
-    url: "https://www.lambdatest.com/blog/",
-    tags: [
-      "JavaScript",
-      "Python",
-      "TypeScript",
-      "Node.js",
-      "Express.js",
-      "Git",
-      "Tech",
-      "Backend",
-      "Software Development",
-    ],
-  },
-  {
     name: "Shyam Manohar",
     description:
       "I'm a CS Under Grad who is passionate about sharing my ideas and experiences through blogs!",
@@ -1725,6 +1708,24 @@ module.exports = [
     ],
   },
   {
+    name: "Ivan Kahl",
+    description:
+      "Write about all things .NET, AWS, Web and any other new tech that might interest me.",
+    url: "https://blog.ivankahl.com/",
+    twitter: "@ivankahl",
+    tags: [
+      "Sage",
+      "Software Developer",
+      "C#",
+      ".NET",
+      "Csharp",
+      "Web Development",
+      "Windows",
+      "AWS",
+      "Amazon Web Services"
+    ],
+  },
+  {
     name: "Peter Lynch",
     description:
       "Full-stack developer and creator of popular chrome extension Garachu. I write about web development and help you level up your coding.",
@@ -2008,26 +2009,6 @@ module.exports = [
       "Jamstack",
       "Next.js",
       "Content Creation",
-    ],
-  },
-  {
-    name: "Osama Mohamed Ammar",
-    description:
-      "Self-taught front-end developer, single threaded, non-blocking person. Trying to become a software engineer.",
-    url: "https://dev.to/osamamammar",
-    twitter: "@osamamammar",
-    tags: [
-      "HTML",
-      "CSS",
-      "JavaScript",
-      "React",
-      "BehindTheScenes",
-      "WebDev",
-      "Tech",
-      "Programming",
-      "Web Development",
-      "Front End",
-      "Git",
     ],
   },
 ];
